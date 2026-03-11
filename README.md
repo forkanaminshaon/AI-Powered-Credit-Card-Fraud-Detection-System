@@ -108,6 +108,19 @@ The model performance is evaluated using:
 
 These metrics help determine how well the model detects fraudulent transactions.
 
+## 📊 Model Visualizations
+
+### Class Distribution Before SMOTE
+![Before SMOTE](before_smote.png)
+
+### Class Distribution After SMOTE
+![After SMOTE](after_smote.png)
+
+### Top 10 Feature Importance
+![Feature Importance](feature_importance.png)
+
+### ROC Curve
+![ROC Curve](roc_curve.png)
 ---
 
 # Machine Learning Techniques Used
